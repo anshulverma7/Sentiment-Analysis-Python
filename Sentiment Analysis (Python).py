@@ -1,8 +1,6 @@
 # Author: Anshul Verma
 
-# Sentiment Analysis 
-
-# EM624 - Exercise 07
+# Sentiment Analysis
 
 import nltk
 
